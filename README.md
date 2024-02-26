@@ -16,41 +16,6 @@
 </h1>
 
 <br/>
-
-<div align="center">
-	<a href="https://github.com/seniorcoder72/trademarktoday-nextjs">
-		<img src="https://avatars.githubusercontent.com/u/132613676?v=4" alt="Logo" width="200" height="200"/>
-	</a>
-	<h3 align="center">Senior Coder (seniorcoder72) </h3>
-	<p align="center">
-		This is the source code for my Freelancer account creating bot.
-		<br/>
-        This project is maintained by <a href='https://seniorcoder72.github.io'>@seniorcoder72</a>
-		<br/>
-        <strong>Don't forget to star ⭐ this repository.</strong>
-        <br/>
-		<a href="https://seniorcoder72.github.io">Explore the docs »</a>
-		<br/>
-		<br/>
-		<a href="https://trademarktoday.com.au">Visit Site</a>
-		·
-		<a href="https://github.com/seniorcoder72/trademarktoday-nextjs/issues/new?assignees=seniorcoder72&labels=bug&template=bug_report.yml&title=%5BBUG%5D%3A+">Report Bug</a>
-		·
-		<a href="https://github.com/seniorcoder72/trademarktoday-nextjs/issues/new?assignees=seniorcoder72&labels=enhancement&template=feature_request.yml&title=%5BFEAT%5D%3A+">Request Feature</a>
-	</p>
-	<p align="center">
-		<img alt="nodejs" src="https://img.shields.io/github/contributors/seniorcoder72/trademarktoday-nextjs.svg?styles/default/yes.svg" /> 
-		<img alt="nodejs" src="https://img.shields.io/github/forks/seniorcoder72/trademarktoday-nextjs.svg?styles/default/yes.svg" /> 
-		<img alt="nodejs" src="https://img.shields.io/github/commits-since/seniorcoder72/trademarktoday-nextjs/v1.0.0" /> 
-		<img alt="nodejs" src="https://img.shields.io/github/commit-activity/t/seniorcoder72/trademarktoday-nextjs" /> 
-		<img alt="nodejs" src="https://img.shields.io/github/stars/seniorcoder72/trademarktoday-nextjs.svg?styles/default/yes.svg" /> 
-		<img alt="nodejs" src="https://img.shields.io/github/issues/seniorcoder72/trademarktoday-nextjs.svg?styles/default/yes.svg" /> 
-		<img alt="nodejs" src="https://img.shields.io/github/repo-size/seniorcoder72/trademarktoday-nextjs.svg?styles/default/yes.svg)" />  
-	</p>
-</div>
-
-<br/>
-
 This is for <a href='https://trademarktoday.com.au'>trademarktoday.com.au</a>
 
 ![Trademarktoday](https://github.com/LouisWinkler/trademarktoday-nextjs/blob/master/public/01.png?raw=true)
@@ -126,36 +91,15 @@ This is for <a href='https://trademarktoday.com.au'>trademarktoday.com.au</a>
 
 Contributions, Issues and Feature requests are Welcome!
 
-Feel free to check the [Issues page](https://github.com/seniorcoder72/trademarktoday-nextjs/issues/).
-
-
 ## Contributors ✨
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
 [![All Contributors](https://img.shields.io/badge/all_contributors-2-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
-<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
-<!-- prettier-ignore-start -->
-<!-- markdownlint-disable -->
-<table>
-  <tbody>
-    <tr>
-      <td align="center" valign="top" width="14.28%"><a href="https://github.com/seniorcoder72"><img src="https://avatars.githubusercontent.com/u/132613676?v=4?s=100" width="100px;" alt="Senior Developer"/><br /><sub><b>Senior Developer</b></sub></a><br /><a href="https://github.com/seniorcoder72/trademarktoday-nextjs/commits?author=seniorcoder72" title="Code">💻</a> <a href="#content-seniorcoder72" title="Content">🖋</a> <a href="https://github.com/seniorcoder72/trademarktoday-nextjs/commits?author=seniorcoder72" title="Documentation">📖</a> <a href="#data-seniorcoder72" title="Data">🔣</a> <a href="#example-seniorcoder72" title="Examples">💡</a> <a href="#ideas-seniorcoder72" title="Ideas, Planning, & Feedback">🤔</a> <a href="#projectManagement-seniorcoder72" title="Project Management">📆</a> <a href="https://github.com/seniorcoder72/trademarktoday-nextjs/pulls?q=is%3Apr+reviewed-by%3Aseniorcoder72" title="Reviewed Pull Requests">👀</a> <a href="#tool-seniorcoder72" title="Tools">🔧</a> <a href="#tutorial-seniorcoder72" title="Tutorials">✅</a> <a href="#video-seniorcoder72" title="Videos">📹</a></td>
-      <td align="center" valign="top" width="14.28%"><a href="https://github.com/LouisWinkler"><img src="https://avatars.githubusercontent.com/u/138194633?v=4?s=100" width="100px;" alt="LouisWinkler"/><br /><sub><b>LouisWinkler</b></sub></a><br /><a href="https://github.com/seniorcoder72/trademarktoday-nextjs/commits?author=LouisWinkler" title="Code">💻</a> <a href="#content-LouisWinkler" title="Content">🖋</a> <a href="https://github.com/seniorcoder72/trademarktoday-nextjs/commits?author=LouisWinkler" title="Documentation">📖</a> <a href="#data-LouisWinkler" title="Data">🔣</a> <a href="#example-LouisWinkler" title="Examples">💡</a> <a href="#ideas-LouisWinkler" title="Ideas, Planning, & Feedback">🤔</a> <a href="#projectManagement-LouisWinkler" title="Project Management">📆</a> <a href="https://github.com/seniorcoder72/trademarktoday-nextjs/pulls?q=is%3Apr+reviewed-by%3ALouisWinkler" title="Reviewed Pull Requests">👀</a> <a href="#tool-LouisWinkler" title="Tools">🔧</a> <a href="#tutorial-LouisWinkler" title="Tutorials">✅</a> <a href="#video-LouisWinkler" title="Videos">📹</a></td>
-    </tr>
-  </tbody>
-</table>
-
-<!-- markdownlint-restore -->
-<!-- prettier-ignore-end -->
-
-<!-- ALL-CONTRIBUTORS-LIST:END -->
 Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
 
 This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome!
 
-
 ## 📝 License
 
 This project is [MIT](https://opensource.org/licenses/MIT) licensed.<br/>
-Copyright &copy; 2023 Senior Coder. All rights reserved. 
